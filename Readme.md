@@ -10,6 +10,7 @@
 * Listing of 6 products
 * Footer menu
 * About editable
+* Newsletter form
 
 ### Desktop
 
