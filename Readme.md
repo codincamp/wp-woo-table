@@ -2,9 +2,14 @@
 
 ## Challenge 9: Codi Shop Wood
 
-* Slideshow of 3 products
-* Listing of 6 products
 * Mobile friendly
+* Top Menu
+* Slideshow (Carousel) of 3 products
+* Submenu of categories
+* Link to products page
+* Listing of 6 products
+* Footer menu
+* About editable
 
 ### Desktop
 
@@ -14,3 +19,4 @@
 ### Mobile
 
 ![Mobile version](mobile.png)
+
