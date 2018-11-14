@@ -21,6 +21,8 @@
 
 ![Mobile version](mobile.png)
 
-### Shop (Given later)
+### Other designs (Given later)
 
-![Shop design](shop.png)
+* [Shop](designs/shop.png)
+* [Product](designs/product.png)
+
