@@ -21,3 +21,6 @@
 
 ![Mobile version](mobile.png)
 
+### Shop (Given later)
+
+![Shop design](shop.png)
