@@ -2,7 +2,7 @@
 
 ## Challenge 9: Codi Shop Wood
 
-* Mobile friendly
+* Mobile friendly ([Mobile Design](designs/mobile.png))
 * Top Menu
 * Slideshow (Carousel) of 3 products
 * Submenu of categories
@@ -16,10 +16,6 @@
 
 ![Design Challenge 9](screenshot.png)
 
-
-### Mobile
-
-![Mobile version](mobile.png)
 
 ### Other designs (Given later)
 
